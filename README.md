@@ -26,7 +26,10 @@
 git clone https://github.com/kadrbequit/Pycall.git
 
 # Proje dizinine gidin
-cd pycraft-tools
+cd Pycall
 
 # Gerekli kütüphaneleri yükleyin
 pip install -r requirements.txt
+
+#kullanım
+python Pycall.py 
