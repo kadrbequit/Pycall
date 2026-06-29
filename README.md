@@ -33,3 +33,8 @@ pip install -r requirements.txt
 
 #kullanım
 python Pycall.py 
+```
+
+## 🎥 Ekran Kaydı
+
+[Demo videosunu izlemek için tıkla](Screenrecorder-2026-06-29-12-28-37-991.mp4)
